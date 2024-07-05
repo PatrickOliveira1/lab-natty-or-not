@@ -1,16 +1,13 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Boneco Correndo ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Movimento de imagem usando IA
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Leonardo AI
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei uma ferramenta de movimento de imagem do Leonardo AI para mover uma imagem criada pela comunidade
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Um boneco em preto e branco no estilo anos 80 correndo.
